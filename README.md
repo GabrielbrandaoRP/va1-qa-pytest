@@ -22,6 +22,10 @@ O foco do projeto é testar as regras de negócio com os testes unitários autom
 Dentro da pasta *tests* execute o seguinte comando
  no terminal executar: `pytest test_livros.py` 
 
+# Artefatos
+ ![Artefatos](./artefatos/execucao-teste.png)
+
+
  
 
 
